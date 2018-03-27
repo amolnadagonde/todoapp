@@ -1,2 +1,0 @@
-# todoapp
-Created with CodeSandbox

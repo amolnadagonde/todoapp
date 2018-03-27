@@ -1,0 +1,22 @@
+.todo-list {
+  margin: 16px 0;
+  padding: 0;
+}
+.list-items {
+  padding: 8px;
+  background: #ddd;
+  margin: 5px 0;
+  list-style: none;
+  border: 1px solid #ccc;
+}
+.editItem,
+.deleteItem {
+  float: right;
+}
+.editItem:hover,
+.deleteItem:hover {
+  cursor: pointer;
+}
+.deleteItem {
+  margin-left: 10px;
+}
